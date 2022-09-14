@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @axosky
+- Currently working as QA, improving my skills and learing new techniques.
 - 👀 I’m interested in Smart-Contracts and DApps development on Solidity and NodeJS.
 - 🌱 I’m currently learning Solidity programming language.
 - 💞️ I’m looking to collaborate on Currently nothing :)
