@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @axosky
 - Currently working as QA, improving my skills and learing new techniques.
 - 👀 I’m interested in Smart-Contracts and DApps development on Solidity and NodeJS.
-- 🌱 I’m currently learning Solidity programming language.
-- 💞️ I’m looking to collaborate on Currently nothing :)
+- 🌱 I’m currently learning Solidity, Java Script and Python programming languages.
+- 💞️ I’m looking to collaborate on project as a QA specialist and looking for a dev menthor :)
 - 📫 How to reach me - E-mail: toczkijg@gmail.com / Inst: @axo_sky
 
 <!---
